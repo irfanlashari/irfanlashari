@@ -1,4 +1,4 @@
-- 👋 Hi, I’m irfanlashari
+- 👋 Hi, I’m Irfan Ali lashari
 - 👀 I’m interested in cybersecurity, Python development
 - 🌱 I’m currently learning python, C, Cybersecurity, machine learning for security applications
 - 💞️ I’m looking to collaborate on open-source security projects, CTF challenges, Python-based automation tools, and building secure applications
